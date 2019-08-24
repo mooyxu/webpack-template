@@ -1,0 +1,19 @@
+body {
+  background: #eee;
+}
+
+div,
+img {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  vertical-align: top;
+  color: #fff;
+  text-align: center;
+  line-height: 100px;
+  font-size: larger;
+}
+
+.css {
+  background: #aaa;
+}
